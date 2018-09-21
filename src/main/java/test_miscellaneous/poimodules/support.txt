@@ -1,0 +1,15 @@
+chart.addSeries("Munich", 54).setAnnotationStyle(AnnotationStyle.always);
+chart.addSeries("Prague", 2).setAnnotationStyle(AnnotationStyle.never);
+chart.addSeries("Berlin", 29).setAnnotationStyle(AnnotationStyle.always);
+chart.addSeries("Dresden", 3).setAnnotationStyle(AnnotationStyle.never);
+chart.addSeries("Hamburg", 22).setAnnotationStyle(AnnotationStyle.always);
+chart.addSeries("Brussels", 4).setAnnotationStyle(AnnotationStyle.never);
+chart.addSeries("Paris", 20).setAnnotationStyle(AnnotationStyle.always);
+chart.addSeries("London", 5);
+chart.addSeries("Madrid", 18).setAnnotationStyle(AnnotationStyle.always);
+chart.addSeries("Roma", 6);
+chart.addSeries("Copenhagen", 16).setAnnotationStyle(AnnotationStyle.always);
+chart.addSeries("Moscow", 7);
+chart.addSeries("Tokyo", 15).setAnnotationStyle(AnnotationStyle.always);
+chart.addSeries("Lyon", 8);
+chart.addSeries("Milano", 12);
